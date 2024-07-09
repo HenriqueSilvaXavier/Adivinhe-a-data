@@ -1,7 +1,7 @@
 import random
-datas=["04/09/476", "21/06/622", "25/12/800", 15/08/1096","15/06/1215", "29/05/1453", "12/10/1492", "31/10/1517", "14/07/1789", "18/06/1815", "12/04/1861", "28/06/1914", "25/10/1917", "24/10/1929", "07/05/1945", "20/07/1969", "09/11/1989", "11/09/2001"]
+datas=["04/09/476", "21/06/622", "25/12/800", "15/08/1096","15/06/1215", "29/05/1453", "12/10/1492", "31/10/1517", "14/07/1789", "18/06/1815", "12/04/1861", "28/06/1914", "25/10/1917", "24/10/1929", "07/05/1945", "20/07/1969", "09/11/1989", "11/09/2001"]
 dicas=["O Império Romano do Ocidente termina em 476 d.C., quando o Imperador Rômulo Augusto é obrigado a abdicar em favor de Odoacro, chefe militar de origem germânica.",
-Hégira foi a fuga de Maomé de Meca para Medina, que marca o ano inicial do calendário islâmico",
+"Hégira foi a fuga de Maomé de Meca para Medina, que marca o ano inicial do calendário islâmico",
 "Carlos Magno, rei dos Francos, foi coroado imperador do Sacro Império Romano pelo papa Leão III, na antiga Basílica de S. Pedro",
 "Início da primeira cruzada, que ficou conhecida como “Cruzada dos Nobres”, ou “Cruzada dos Barões”, por ter sido organizada pela nobreza.", 
 "Com o Rei enfraquecido pelas derrotas, houve uma grande pressão dos nobres, liderados por Robert Fitzwalter, que forçou o Rei João a assinar a Magna Carta, para evitar uma guerra civil.",
